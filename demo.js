@@ -7,3 +7,9 @@ console.error('gsl.randist.ranPoisson(25)', gsl.randist.ranPoisson(25));
 console.error('gsl.randist.ranPoisson(25)', gsl.randist.ranPoisson(25));
 console.error('gsl.randist.ranPoisson(25)', gsl.randist.ranPoisson(25));
 console.error('gsl.randist.ranPoisson(25)', gsl.randist.ranPoisson(25));
+
+console.error('gsl.randist.ranGamma(1, 1)', gsl.randist.ranGamma(1, 1));
+console.error('gsl.randist.ranGamma(1, 1)', gsl.randist.ranGamma(1, 1));
+console.error('gsl.randist.ranGamma(1, 1)', gsl.randist.ranGamma(1, 1));
+console.error('gsl.randist.ranGamma(1, 1)', gsl.randist.ranGamma(1, 1));
+console.error('gsl.randist.ranGamma(1, 1)', gsl.randist.ranGamma(1, 1));
